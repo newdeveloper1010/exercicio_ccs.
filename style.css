@@ -1,0 +1,35 @@
+h1{
+    color: rgb(143, 9, 9);
+}
+h2{
+color: blue;
+}
+h3{
+    color: rgb(227, 5, 5);
+}
+h4{
+    color: rgb(16, 2, 7);
+}
+#economy h2{
+    color: rgb(166, 143, 13);
+}
+.creation-date{
+    color: rgb(0, 12, 0);
+}
+.{
+    box-sizing: border-box
+    margin: 0;
+    padding: 0;
+}
+.article{
+    display: flex;
+}
+header li{
+    display: inline-block;
+}
+.container{
+    width: 1366px;
+    margin: auto
+     ;
+}
+
