@@ -1,0 +1,73 @@
+
+body{
+    background-color: rgb(228, 228, 228);
+}
+
+button style{
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(159, 23, 5);
+}
+
+h2{
+    color: rgb(235, 6, 6);
+}
+
+#Entertainment h2{
+    color: greenyellow;
+}
+
+*{
+    color: rgb(154, 5, 5);
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+}
+
+header li{
+    display: inline-flex;
+}
+
+.container{
+    width: 1500px;
+    margin: 0 auto;
+}
+
+header h1{
+    background-color: rgb(166, 77, 79);
+}
+
+section{
+    padding: 16px 0;
+
+}
+section h2{
+    padding: 16px 0;
+}
+
+.articles article p, .articles article a {
+    front font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#Entertainment .articles article{
+    background-color: blue;
+}
+label{
+    color: blueviolet;
+}
+
+.p{
+    font-size: medium;
+}
+
+.first{
+    color: rgb(207, 214, 11);
+}
+
+.second{
+    color: blue;
+}
